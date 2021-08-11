@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-emacs up_to_date
-=======
-> up_to_date
->>>>>>> 6b151432ac6f7e5e5eb7ae098ba47ea9ce7e4e80
+git pull origin main
